@@ -1,0 +1,3 @@
+/Users/damienmcevoy/Documents/GitHub/HarmonicPicolator/build/CMakeFiles/harmperc.dir
+/Users/damienmcevoy/Documents/GitHub/HarmonicPicolator/build/CMakeFiles/edit_cache.dir
+/Users/damienmcevoy/Documents/GitHub/HarmonicPicolator/build/CMakeFiles/rebuild_cache.dir

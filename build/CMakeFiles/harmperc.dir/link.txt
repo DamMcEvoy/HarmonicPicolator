@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -bundle -Wl,-headerpad_max_install_names -o harmperc.dylib CMakeFiles/harmperc.dir/src/harmperc.cpp.o -F/Library/Frameworks  -Wl,-rpath,/Library/Frameworks/CsoundLib64.framework/Versions/Current -framework CsoundLib64
